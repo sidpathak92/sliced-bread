@@ -1,2 +1,2 @@
 # sliced-bread
-Personal dashboard for tracking specific sectors
+Personal dashboard for tracking specific equity sectors in India
